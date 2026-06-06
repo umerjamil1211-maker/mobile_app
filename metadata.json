@@ -1,0 +1,6 @@
+{
+  "name": "School & College HRM",
+  "description": "A comprehensive local Human Resource Management system designed for educational institutions to manage employees, attendance, leave, payroll, workflows, workload, and performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
